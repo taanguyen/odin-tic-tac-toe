@@ -1,0 +1,11 @@
+- Create a gameboard
+- Create two players 
+- Create a function to play a round
+- Check for a winner each round 
+
+TODO: 
+- build html/css 
+    - accept user names input
+    - use buttons for accepting clicks - DONE! 
+    
+- show which player won
